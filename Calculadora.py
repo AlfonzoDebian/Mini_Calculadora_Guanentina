@@ -1,5 +1,4 @@
 #### Output
-
 print("Calculadora.py")
 print("Operadores")
 print("==========================================")
@@ -14,9 +13,7 @@ print("2. Restar")
 print("3. Multiplicar")
 print("4. Dividir")
 print("5. Potencia")
-print("6. Logaritmo")
 
-resultado = x, y
 instruccion = int(input("Con que operador quieres (?) "))
 
 
@@ -25,7 +22,20 @@ if instruccion >= 7:
 else:
     print("Puedes Seguir usando el programa. ")
 
+if instruccion == 1:
+    y + x
+    print("El Valor es: ", x + y)
 
-
-
-
+if instruccion == 2:
+    y - x
+    print(x - y)
+if instruccion == 3:
+    y * x
+    print("El valor es: ", y * x)
+if instruccion == 4:
+    y / x
+    print("El valor es: ", y / x)
+if instruccion == 5:
+    y ** x 
+    print("El valor es: ", y ** x)
+    

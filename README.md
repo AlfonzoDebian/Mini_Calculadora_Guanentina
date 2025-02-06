@@ -14,7 +14,6 @@ Selecciona una operación:
 3. Multiplicar
 4. Dividir
 5. Potencia
-6. Logaritmo
 
 Introduce el número de la operación (1/2/3/4/5/6): 1
 Introduce el primer número: 5
