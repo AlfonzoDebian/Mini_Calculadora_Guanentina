@@ -21,4 +21,4 @@ Introduce el segundo número: 3
 El resultado de sumar es: 8
 ```
 
-![""](./diagrama.png)
+![""](./ks.png)
